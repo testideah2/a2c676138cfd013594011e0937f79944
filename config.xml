@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns   = "http://www.w3.org/ns/widgets"
     xmlns:gap   = "http://phonegap.com/ns/1.0"
-    id          = "com.dostavka23.app"
+    id          = "com.dostavka23app.app."
     versionCode = "10"
-    version     = "1.0.0">
+    version     = "1.1.0">
 
-<name>ТЕСТ. dostavka23.com</name>
+<name>ТЕСТ. dostavka23app.com</name>
 
 <description>
     Служба доставки еды в Усть-Лабинске
